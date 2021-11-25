@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
--🌱 Aprendiendo desarrollo Full stack ;)
+- 🌱 FULLSTACK DEVELOPMENT BOOTCAMP IN PROGRESS ;)
+
+- ♥ https://nucba.com.ar/ 
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
