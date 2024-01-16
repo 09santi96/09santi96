@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 
-- 🌱 FULLSTACK DEVELOPMENT BOOTCAMP IN PROGRESS ;)
+- 🌱 FULLSTACK WEB DEVELOPER  ;)
 
 - ♥ https://nucba.com.ar/ 
 
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/santiago-mart%C3%ADnez-695142160/
+- 💬 Ask me about other private projects
+- 📫 How to reach me: https://www.linkedin.com/in/sam692160/
 - 😄 Pronouns: Santi
-- ⚡ Fun fact: 
 - ☻ Code by SAMO 
 
