@@ -8,10 +8,10 @@ Hi there 👋 I´m Santiago, a Full Stack developer with experience in Front-End
 
 I have a broad understanding of programming logic and an aptitud for learning new programming skills worked on several web development projects, client and server side.
 
-💬 Ask me about other private projects
-😄 Pronouns: Santi
-🧑‍🚀 Code by SAMO
+💬 Ask me about other private projects <br>
+😄 Pronouns: Santi <br>
+🧑‍🚀 Code by SAMO <br>
   
-## 📌 Currently working as
-⚡ Full stack developer at Coradir SA.
-⚡ My main responsibilities include building new modules and maintaining existing apps.
+## 📌 Currently working as <br>
+⚡ Full stack developer at Coradir SA. <br>
+⚡ My main responsibilities include building new modules and maintaining existing apps. <br>
